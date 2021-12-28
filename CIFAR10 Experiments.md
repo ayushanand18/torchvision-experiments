@@ -19,11 +19,10 @@ We will also experiment with different model architectures. (All we will use are
 
 ## Conclusion
 The Results table.
-(I will update as I do the experiments.)
 |Architecture |No Transformation|ColorJitter|Rotation|Rot.+Color.|Rot.+Grayscale|
 |-------------|-----------------|-----------|--------|-----------|--------------|
 |ResNet34 (64)|                 |           |        |           |              |
 |ResNet34 (128)||||||
-|ResNet50 (128)||||||
+|ResNet50 (128)|99.282%|||||
 |ResNeXt50 (128)||||||
 |ResNeXt50 (64)||||||
