@@ -28,10 +28,11 @@ The Results table.
 
 1. **Ranger** Optimizer just worked wonders and whithin 5 epochs got a 99%+ accuracy on ResNet50.
 2. **ResNet50** scores slightly better than **ResNeXt50** on our dataset (in 5 epochs) but ResNeXt50 takes considerably more time for training than the former.
+
   |Model    |Training Time| Utilized time %|
   |---------|-------------|----------------|
   |ResNet50 |  18m 34s     |  70.64%       |
   |ResNeXt50|  26m 17s     |  100%         |
   
-  ResNet50 performs slightly better while taking 30% lesser time than ResNeXt50.
+  ResNet50 performs slightly better while taking 30% lesser time than ResNeXt50.\
   Therefore, it will be better for us to use **ResNet50** over **ResNeXt50** because of time contrains.
