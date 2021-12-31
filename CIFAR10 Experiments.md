@@ -35,4 +35,4 @@ The Results table.
   |ResNeXt50|  26m 17s     |  100%         |
   
   ResNet50 performs slightly better while taking 30% lesser time than ResNeXt50.\
-  Therefore, it will be better for us to use **ResNet50** over **ResNeXt50** because of time contrains.
+  Therefore, it will be better for us to use **ResNet50** over **ResNeXt50** because of time constrains.
